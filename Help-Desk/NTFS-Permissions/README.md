@@ -36,5 +36,10 @@ Practice configuring and troubleshooting NTFS permissions in Windows 11
 ### Successful HR Access
 <img width="1024" height="768" alt="2 8HR_Accepted" src="https://github.com/user-attachments/assets/1411e8f7-2dc1-4312-97f0-3ed3cea0061d" />
 
+## What I Learned
+- How NTFS permissions control access to folders and files
+- Difference between Allow and Deny permissions
+- How to test permissions using different user accounts
+- Importance of properly configuring department folder access
 
 
