@@ -1,2 +1,2 @@
 # Screenshots  
-This folder contains screenshots for the Local User MAnagement lab.
+This folder contains screenshots for the Local User Management lab.
