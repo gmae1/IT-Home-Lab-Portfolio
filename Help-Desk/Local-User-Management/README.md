@@ -1,4 +1,4 @@
-# Local User MAnagement LAb
+# Local User MAnagement Lab
 
 This lab demonstrates Windows local user administration task including:
 - User creation
