@@ -6,7 +6,7 @@ Pratice creating and managing local Windows users.
 ## Tools Used
 - Windows 11
 - VirtualBox
-- Command Prompt
+- Command Prompt (Administrator)
 - Microsofts GUI
 
 ## Commands Used
