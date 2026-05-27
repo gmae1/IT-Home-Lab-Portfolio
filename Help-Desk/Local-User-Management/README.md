@@ -10,7 +10,7 @@ Pratice creating and managing local Windows users.
 - Microsofts GUI
 
 ## Commands Used
-###cmd
+### cmd
 - net user TestUser2 123456 /add
 - net user
 - net user TestUser2
