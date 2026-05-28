@@ -27,7 +27,7 @@ User Creation
 ## Password Change
 <img width="1024" height="768" alt="1 6CMD_Password_change" src="https://github.com/user-attachments/assets/3d2ecf99-96b6-46e8-b566-b2c329bb12e1" />
 
-##Acount Enabled/Disabled
+## Acount Enabled/Disabled
 <img width="1024" height="768" alt="1 7Disable_Enable_Accounts" src="https://github.com/user-attachments/assets/11e7a26e-9fe6-44c2-877f-4c79af7fba21" />
 
 ## What I Learned
