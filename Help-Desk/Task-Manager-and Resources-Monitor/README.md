@@ -30,12 +30,12 @@ Highest CPU Proccesses
 Highest Memeory Proccesses
 <img width="1024" height="768" alt="6 3Highest_RAM_Usage" src="https://github.com/user-attachments/assets/8f6764b0-4ef4-4032-999d-58d494489cb8" />
 
-
 Startup Applications
 <img width="1024" height="768" alt="6 4Startup_Apps" src="https://github.com/user-attachments/assets/fe0def16-8db1-4347-b94b-5189b377b0fd" />
 
 End Task Example
-<img width="1024" height="768" alt="6 5End_Task" src="https://github.com/user-attachments/assets/57009d6b-e748-4b7b-80fb-1134efe2338c" />
+<img width="1024" height="768" alt="6 5End_Task" src="https://github.com/user-attachments/assets/f8b28b07-27b5-4f1c-8c45-e4b60f28c5e7" />
+
 
 Resources Monitor
 <img width="1024" height="768" alt="6 6Resource_Monitor" src="https://github.com/user-attachments/assets/7f124f6c-1a06-47b4-86cf-f7799576d096" />
