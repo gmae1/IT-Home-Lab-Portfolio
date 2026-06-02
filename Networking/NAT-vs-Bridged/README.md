@@ -47,7 +47,7 @@ Bridge vs NAT Comparison
 <img width="1024" height="768" alt="10 6Bridge_Ipconfig_All" src="https://github.com/user-attachments/assets/dfe2518c-028e-4723-be90-3c0ecdbde044" />
 <img width="1024" height="768" alt="NAT_IPconfig_All" src="https://github.com/user-attachments/assets/515a9521-5552-4c0e-8a7d-7a52589c403a" />
 
-## WHat I learned
+## What I learned
 - How NAT networking allows a virtual machine to access the internet through the host system
 - How Bridge networking places a virtual machine directly on the physical network
 - How IP addressing differes between NAT and Bridge mode
