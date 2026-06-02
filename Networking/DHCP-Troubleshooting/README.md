@@ -1,3 +1,0 @@
-# DHCP Troubleshooting Lab
-
-## Objective
