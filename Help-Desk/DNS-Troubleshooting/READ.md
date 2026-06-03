@@ -1,3 +1,0 @@
-# DNS Troubleshooting Lab
-
-## Objective
