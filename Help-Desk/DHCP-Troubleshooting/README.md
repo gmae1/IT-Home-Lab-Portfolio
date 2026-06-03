@@ -3,7 +3,7 @@
 ## Objective
 Practice Troubleshooting DHCP-related connectivity issues using Windows Command Prompt tools.
 
-##Tools Used
+## Tools Used
 - Windows 11
 - VirtualBox
 - Command Prompt
