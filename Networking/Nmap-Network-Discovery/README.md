@@ -53,6 +53,7 @@ Windows Firewall Turned Back On
 - Windows Firewall affects scan results
 - Filtered ports are different from closed ports
 - Port 135 is used by Microsof RPC
+- Port 139 is used by the NetBIOS
 - Port 445 is used by SMB file sharing
 - Enumeration is the process of gathering information
 - Open ports reveal services available on a system
