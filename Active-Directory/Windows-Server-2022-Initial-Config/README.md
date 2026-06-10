@@ -22,7 +22,7 @@ Prepare a newly installed Windows Server 2022 machine for Active Directory deplo
 ## Screenshots
 
 Windows Server 2022 Desktop Experience Instalation
-<img width="1024" height="768" alt="1 1Window_Server_StaticIP" src="https://github.com/user-attachments/assets/c4eeb6a7-6d5c-49be-a6b3-b8e5b088a4d0" />
+<img width="1024" height="768" alt="11 1Windows_Server_Info" src="https://github.com/user-attachments/assets/e70f50fa-4c2a-495a-a5c3-4d5604c6794f" />
 
 Static IP Address
 <img width="1024" height="768" alt="1 1Window_Server_StaticIP" src="https://github.com/user-attachments/assets/2d1fdb8e-d445-45f7-846f-b21ffdddb784" />
