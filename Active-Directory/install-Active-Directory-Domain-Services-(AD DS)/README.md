@@ -37,7 +37,7 @@ AD DS Installed
 <img width="1024" height="768" alt="2 4Installing_ADDS" src="https://github.com/user-attachments/assets/3a616968-8032-4955-8b94-be12663bb26a" />
 
 Deployment Configuration
-<img width="1024" height="768" alt="2 5Deployment_Configuation" src="https://github.com/user-attachments/assets/86acab29-ea7e-41f2-a3ad-02a1ad652ebe" />
+<img width="1024" height="768" alt="2 5Deployment_Configuation" src="https://github.com/user-attachments/assets/d14543db-6616-43c9-bb50-1f01e1405683" />
 
 Domain Admin Login Verificatoin
 <img width="1024" height="768" alt="2 6Domain_Admin_Login" src="https://github.com/user-attachments/assets/0b4fd5e2-04fc-4e28-8ece-58dfbe73d155" />
