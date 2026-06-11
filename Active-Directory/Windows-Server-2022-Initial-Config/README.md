@@ -28,7 +28,7 @@ Static IP Address
 <img width="1024" height="768" alt="1 1Window_Server_StaticIP" src="https://github.com/user-attachments/assets/2d1fdb8e-d445-45f7-846f-b21ffdddb784" />
 
 Verification of IP Address
-<img width="1024" height="768" alt="1 3WindowsClient_IP" src="https://github.com/user-attachments/assets/4f303478-a81d-40d7-b6b1-e5c89b96b41d" />
+<img width="1024" height="768" alt="1 2IP_Verification" src="https://github.com/user-attachments/assets/27b24ac1-058b-4cf0-a491-092e9bb4fa85" />
 
 Windows (Client) IP Address
 <img width="1024" height="768" alt="1 3WindowsClient_IP" src="https://github.com/user-attachments/assets/aff5f9d4-eb32-43b5-83ea-07e39b554ad1" />
