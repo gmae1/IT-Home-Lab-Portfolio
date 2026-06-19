@@ -42,4 +42,4 @@ Windows 11 Computer verification in Active Directory Users and Computers
 
 ## Conclusion
 
-Configured DNS services within a Windows Server 2022 Active Directory environment and joined a Windows 11 Pro workstation to the LAB>LOCAL domain, enabling centeralized authentication, name resolution, and domain based management
+Configured DNS services within a Windows Server 2022 Active Directory environment and joined a Windows 11 Pro workstation to the LAB_LOCAL domain, enabling centeralized authentication, name resolution, and domain based management
