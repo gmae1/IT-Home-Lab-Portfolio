@@ -17,7 +17,7 @@ Active Directory provides centeralized authenitcation and management for users, 
 ## Screenshots
 
 Static IP 
-<img width="1024" height="768" alt="1 8IP_Verification" src="https://github.com/user-attachments/assets/daff7e63-8f5d-4515-9a1a-d0e382d56208" />
+<img width="1024" height="768" alt="1 8IP_Verification" src="https://github.com/user-attachments/assets/4aa338fc-2961-40b7-aa94-cf91106334e3" />
 
 Server Name Change
 <img width="1024" height="768" alt="1 9Server_Name_Change" src="https://github.com/user-attachments/assets/a391678f-e769-44bf-9a29-cdb634e9f274" />
