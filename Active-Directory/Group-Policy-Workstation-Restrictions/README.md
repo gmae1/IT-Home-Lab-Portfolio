@@ -12,6 +12,13 @@ Organizations use Group Policy to limit user access to critical system settings 
 
 This allows administrators to manage workstations centrally without manually cconfiguring every device.
 
+## Task Performed
+
+- Created New Group Policy
+- Edited the Group Policy
+- Applied group Policy
+- Verified Restriction
+
 ## Screenshots
 
 Group Policy Management
