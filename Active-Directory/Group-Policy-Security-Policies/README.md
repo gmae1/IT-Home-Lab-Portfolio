@@ -1,7 +1,7 @@
 # Group Policy Security Poicies
 
 ## Objective
-Implement domain wide security policies using Group Polict to enforce password requirements and account lockout protections across Active Directory.
+Implement domain wide security policies using Group Policy to enforce password requirements and account lockout protections across Active Directory.
 
 ## Why This Lav Matters
 Group Policy allws administrators to centrally manage security settings for all domain users and computers. By enforcing password complexity and account lockout polocies, organizations reduce the risk of weak passwords
