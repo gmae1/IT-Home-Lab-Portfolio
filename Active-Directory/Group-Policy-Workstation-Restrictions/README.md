@@ -16,6 +16,7 @@ This allows administrators to manage workstations centrally without manually cco
 - Created New Group Policy
 - Edited the Group Policy
 - Applied group Policy
+- Update Policy
 - Verified Restriction
 
 ## Screenshots
