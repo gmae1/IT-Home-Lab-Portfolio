@@ -43,4 +43,4 @@ Successful Wallpaper On Multiple Accounts
 <img width="1024" height="768" alt="9 12Successful_WallPaper(2)" src="https://github.com/user-attachments/assets/ada8e8ea-bcfe-4ae1-9629-951513f70bf0" />
 
 ## Conclusion
-Omplemented a user-based Group Policy Object (GPO) to centrally manage desktop settings in Active Directory by deploying a shared corporate wallpaper through SMB file shares and validating policy on domain users.
+Implemented a user-based Group Policy Object (GPO) to centrally manage desktop settings in Active Directory by deploying a shared corporate wallpaper through SMB file shares and validating policy on domain users.
