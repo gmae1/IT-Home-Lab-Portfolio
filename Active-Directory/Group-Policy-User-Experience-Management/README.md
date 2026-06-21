@@ -7,6 +7,16 @@ Create and deploy user-based Group Policy Objects (GPOs) to centrally manage the
 Organizations use Group Policy to maintain a consistent desktop environment and enforce company standards without manually configuring each workstation.
 This lab demonstrates centrallized administration by automatically applying desktop setting to domain users.
 
+## Task Performed
+- Created Wallpaper Folder
+- Shared the Folder
+- Configured Share Permissions
+- Verified Network Access
+- Created Group Policy
+- Configured Desktop Wallpaper
+- Applied Policy
+- Verified Wall Paper Is Successful Over Multiple Users
+
 # Screenshots
 
 Download Wallpaper
