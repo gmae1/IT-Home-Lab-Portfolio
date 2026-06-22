@@ -1,3 +1,3 @@
 # Screenshots
 
-## This is where all screenshot fromthe Resource and User Data Management lab will be located.
+## This is where all screenshot from the Resource and User Data Management lab will be located.
