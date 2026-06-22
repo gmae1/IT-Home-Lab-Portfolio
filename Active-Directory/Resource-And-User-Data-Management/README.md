@@ -21,7 +21,7 @@ Created Folder
 <img width="1024" height="768" alt="13 1Created_New_Folder" src="https://github.com/user-attachments/assets/85529fb6-5ff2-4640-815b-147b547044c4" />
 
 Assigned Permissions (NTFS)
-<img width="1024" height="768" alt="13 2Assign_Permissions" src="https://github.com/user-attachments/assets/a5977aac-d4af-45cd-ac78-ce4bce4cd7c1" />
+<img width="1024" height="768" alt="13 2Assign_Permissions" src="https://github.com/user-attachments/assets/1d49345b-51c7-4377-857e-a1dd4126b159" />
 
 Assigned Permissions (Shared)
 <img width="1024" height="768" alt="13 3Sharing_Permissions" src="https://github.com/user-attachments/assets/bf8f52a5-88a1-483e-a9ba-c6b998b6b476" />
