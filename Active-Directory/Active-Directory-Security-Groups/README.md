@@ -22,5 +22,5 @@ Adding Users To Groups
 Verifiying Members Of
 <img width="1024" height="768" alt="4 3Verifying_Members_Of" src="https://github.com/user-attachments/assets/7c4bd563-72f6-4072-9e2d-2edd28582192" />
 
-Conclusion
+# Conclusion
 Implemented Global Security Groups and assigned domain users to role-based groups to simplify permission management and support scalable access control within an Active Directory environment.
