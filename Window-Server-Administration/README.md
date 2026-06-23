@@ -1,1 +1,3 @@
+# Window Server Administration
+
 This section focuses on maintaining and securing enterprise infrastructure rather than simply building it. Labs in this selection cover high availability, patch management, backups, storage, and centeralized administration. The goal to simulate real-world system administration taskand build a resilient Windows Server environment. By the end of this section, the lab will resemble a small enterprise network designed for reliability and security.
