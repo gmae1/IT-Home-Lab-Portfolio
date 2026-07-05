@@ -1,4 +1,4 @@
-# File SErver Resource Manager FSRM Storage Management Lab
+# File Server Resource Manager FSRM Storage Management Lab
 
 ## Objective
 Deploy and configure File Server Resource Manager (FSRM) on Windows SErver 2022 to manage enterprise file storage by implementing storage quotes, file screening policies, and storage utilization reports.
