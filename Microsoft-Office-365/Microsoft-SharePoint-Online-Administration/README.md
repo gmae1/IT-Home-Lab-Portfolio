@@ -68,14 +68,17 @@ Engineering documentation was organized into logical business categories
 ### Screenshots 
 
 Folder Creation
+
 <img width="574" height="451" alt="Screenshot 2026-08-07 111042" src="https://github.com/user-attachments/assets/afd6cfbf-a5f9-459d-8a71-5b3cc2c1bcda" />
 <img width="602" height="373" alt="Screenshot 2026-08-07 111104" src="https://github.com/user-attachments/assets/6c4ce505-2c0a-446d-a38a-cad3f138ef55" />
 <img width="623" height="473" alt="Screenshot 2026-08-07 111119" src="https://github.com/user-attachments/assets/7467e8b4-334c-4801-a4c1-ef057961ad46" />
 
 Tex Document inside of the Standard Operating Procedures Folder
+
 <img width="1809" height="418" alt="Screenshot 2026-08-07 111254" src="https://github.com/user-attachments/assets/4f772d0d-6c04-4c3b-938e-891b1c362e93" />
 
 Verify Documents Creation
+
 <img width="1296" height="300" alt="Screenshot 2026-08-07 111350" src="https://github.com/user-attachments/assets/c6dd6fed-ba1a-4c8d-8d27-87dff6068479" />
 
 ## Lab 18 - Manage SharePoint Permissions 
