@@ -1,4 +1,4 @@
-# Lab 14 — Restrict Control Panel & Windows Settings Using Group Policy
+# Restrict Control Panel & Windows Settings Using Group Policy Lab
 
 ## Overview
 
